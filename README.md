@@ -1,7 +1,7 @@
 
 ## Hi everyone! 🙋‍♀️  
 
-### About me
+#### A breif of me
 
 - 👩‍💻 FullStack Web Developer. Passionate about JavaScript, React, Next and Node.js.
 - 👩‍🏫 Working as a TA in @CodeOp-tech. 
